@@ -1,0 +1,95 @@
+# homepage
+homepage:
+  head:
+    title: "SnS | Morkie Puppies"
+# showcase
+showcase:
+  enable: true
+  title: "Specializing in Morkies"
+  subtitle: "What is a Morkie?"
+  description: "Morkies are a small and adorable designer dog breed that is a cross between a Maltese and a Yorkshire Terrier</a>."
+  image:
+    alt: "phoebe"
+    x: "img/phoebe.png"
+    _2x: "img/phoebe.png"
+  imageMobile:
+    alt: "phoebe"
+    x: "img/phoebe.png"
+
+# about
+about:
+  enable: true
+  title: "Who are we?"
+  content: '<p class="lead">
+At Sister & Sister, our primary mission is to ensure the well-being and happiness of every dog in our care. We believe that dogs are not just pets but cherished members of families, deserving of the utmost love, attention, and respect. With this philosophy at the core of our operations, we strive to produce healthy and well-socialized puppies that will become lifelong companions.</p>
+    <p class="lead">
+    
+    </p>'
+  image:
+    x: "img/baily.png"
+    _2x: "img/baily.png"
+
+
+# Puppies
+puppies:
+  title: "Puppies"
+  enable: true
+
+  puppy:
+    - title: "Ford"
+      description: "Male"
+      image:
+        x: "img/puppies/ford.jpg"
+        _2x: "img/puppies/ford.jpg"
+      is_even: true
+
+    - title: "Luna"
+      description: "Female"
+      image:
+        x: "img/puppies/luna.jpg"
+        _2x: "img/puppies/luna.jpg"
+      is_even: false
+
+    - title: "Daisy"
+      description: "Female"
+      image:
+        x: "img/puppies/daisy.jpg"
+        _2x: "img/puppies/daisy.jpg"
+      is_even: true
+
+    - title: "Dallas"
+      description: "Male"
+      image:
+        x: "img/puppies/dallas.jpg"
+        _2x: "img/puppies/dallas.jpg"
+      is_even: false
+
+    - title: "Zoey"
+      description: "Female"
+      image:
+        x: "img/puppies/zoey.jpg"
+        _2x: "img/puppies/zoey.jpg"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "(289) 716 3637"
+  email:
+    title: "Email"
+    email: '<a href="mailto:alyshalebrasseur.xo@hotmail.com">alyshalebrasseur.xo@hotmail.com</a>'
+  address:
+    title: "Address"
+    address: "Newmarket, Ontario"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
