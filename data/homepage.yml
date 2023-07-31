@@ -77,7 +77,7 @@ contact:
   title: "Contact"
   form:
     method: "POST"
-    action: "#"
+    action: "https://airform.io/alyshalebrasseur.xo@hotmail.com"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
