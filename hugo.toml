@@ -1,4 +1,4 @@
-baseURL = 'http://www.sisterandsister.ca/'
+baseURL = 'https://sisterandsister.ca/'
 languageCode = 'en-us'
 title = 'SnS | Morkie Puppies'
 theme = "raditian"
